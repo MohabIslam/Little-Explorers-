@@ -2,7 +2,7 @@
         // Seed data for the dynamic pages
         const data = {
             toys: [
-                { id: 1, name: "Wooden Animal Puzzle", age: "1-3", type: "Cognitive", image: "assets/images/puzzle.png" },
+                { id: 1, name: "Wooden Animal Puzzle", age: "1-3", type: "Cognitive", image: "assets/images/Puzzle.png" },
                 { id: 2, name: "Magnetic Drawing Board", age: "3-5", type: "Creativity", image: "assets/images/Drawing Board.png" },
                 { id: 3, name: "Robot Coding Kit", age: "6-8", type: "STEM", image: "assets/images/Robot Kit.png" },
                 { id: 4, name: "Colorful Playdough Set", age: "1-3", type: "Sensory", image: "assets/images/Playdough.png" },
@@ -118,3 +118,4 @@
             renderFaqs();
         });
         
+
